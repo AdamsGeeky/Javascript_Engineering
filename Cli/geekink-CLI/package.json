@@ -1,0 +1,25 @@
+{
+  "name": "geekink-cli",
+  "version": "1.0.0",
+  "description": "simple cli tools for Geekink using nodejs",
+  "main": "index.mjs",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "geekink": "./index.mjs"
+  },
+  "keywords": [
+    "CLI",
+    "geekink",
+    "command",
+    "line",
+    "interface"
+  ],
+  "author": "ADAMU MUHAMMAD MUHAMMAD",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
