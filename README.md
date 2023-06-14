@@ -14,3 +14,6 @@
 - Apply the learned concepts to a real-world project
 - Collaborate with peers for guidance and feedback
 - Implement best practices, design patterns, and adhere to SOLID principles
+
+
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
