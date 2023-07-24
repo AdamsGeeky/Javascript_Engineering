@@ -5,6 +5,7 @@
 - Introduction to JavaScript and Object-Oriented Programming
 - SOLID Principles and Software Design
 - Functional Programming in JavaScript
+- React prerequisite
 - Advanced JavaScript Concepts
 - Design Patterns in JavaScript
 - Advanced Topics and Best Practices
